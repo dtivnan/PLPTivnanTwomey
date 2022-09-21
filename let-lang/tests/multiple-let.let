@@ -1,0 +1,2 @@
+;This test shows let declaring multiple variables;
+let x := 5 y := 3 z := 6 in x * y + z

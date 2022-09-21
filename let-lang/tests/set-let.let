@@ -1,0 +1,1 @@
+let st := set[1,2,3] in st union set[4,5,6]

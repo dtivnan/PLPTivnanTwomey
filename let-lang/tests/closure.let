@@ -1,0 +1,6 @@
+fun example x ~
+    y ~
+     x + y
+
+
+apply example 3 2
